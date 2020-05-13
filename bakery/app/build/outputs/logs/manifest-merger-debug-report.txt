@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\47406e0ae777ff419e645d3fb18f1f12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a312bd3aab80e0720b60e57b2c087fd6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\011d282a7525e97bb36e020636a12cf2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a43fae00588eb5dcbf2d3897963b8df3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\b9cf79107c81aa3f8dcc8aa62fc5cee2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a5147654483ea3034a4f46d9f7698213\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\04975fcc89a2078ce84d1597f0bab0ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a02808c001f84aff6bac8fa6185f85f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\347efe0b1a169a243cdc3301081587c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\1b3f4f759f9ad5c1e014ab48dc0827d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\1a451a1b14d4e3908c3d12672d65f2d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\ef8c9e3e86dd13feb2003329827e890a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\16abd3bcb1a841c1ff0d89cf359711da\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\5d17186e2d16f5923de672f1bdfcf21b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\809d2f67b102ee14d637fc49ae3248cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\bdeb1a39d732efcd4d7d364c678c0754\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\72c2272ee58f0ff2de52d70193f1d22c\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\e0a2ab1682ce9f06cdd7fa997494f58c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\9199dd17742322beee2f62c643542bd6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\4256ef64426de844d68fdd8e76be2b69\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\77481b40e078c85dc0d7525db7fc4a79\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\82db0b9cc2ffe86ae5e9c1f98ab0eec7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\3cbc23fb96b38fe88e4bb2f743dc74bf\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\bb87b1f4a23273bb3458ef71ff5c8551\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a80cdeff8b210e73a37063ba8197a394\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\1df2f751f831b68bd97b40f026743f6c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\092f30b8ce5b92ccd1d7e2e8cfa45e0e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a312bd3aab80e0720b60e57b2c087fd6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a312bd3aab80e0720b60e57b2c087fd6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\bdeb1a39d732efcd4d7d364c678c0754\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\bdeb1a39d732efcd4d7d364c678c0754\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\72c2272ee58f0ff2de52d70193f1d22c\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\72c2272ee58f0ff2de52d70193f1d22c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\bdeb1a39d732efcd4d7d364c678c0754\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.bakery.show
+ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:12:9-51
+	android:name
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:12:19-39
+activity#com.example.bakery.delete
+ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:13:19-41
+activity#com.example.bakery.update
+ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:14:9-44
+	android:name
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:14:19-41
+activity#com.example.bakery.insert
+ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:15:19-41
+activity#com.example.bakery.guest_view
+ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:16:9-48
+	android:name
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:16:19-45
+activity#com.example.bakery.user_view
+ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:17:9-47
+	android:name
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:17:19-44
+activity#com.example.bakery.admin_view
+ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:18:9-48
+	android:name
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:18:19-45
+activity#com.example.bakery.register
+ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:19:9-46
+	android:name
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:19:19-43
+activity#com.example.bakery.MainActivity
+ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:20:19-47
+activity#com.example.bakery.Splash
+ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:21:19-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\47406e0ae777ff419e645d3fb18f1f12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\47406e0ae777ff419e645d3fb18f1f12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a312bd3aab80e0720b60e57b2c087fd6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a312bd3aab80e0720b60e57b2c087fd6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\011d282a7525e97bb36e020636a12cf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\011d282a7525e97bb36e020636a12cf2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a43fae00588eb5dcbf2d3897963b8df3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a43fae00588eb5dcbf2d3897963b8df3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\b9cf79107c81aa3f8dcc8aa62fc5cee2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\b9cf79107c81aa3f8dcc8aa62fc5cee2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a5147654483ea3034a4f46d9f7698213\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a5147654483ea3034a4f46d9f7698213\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\04975fcc89a2078ce84d1597f0bab0ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\04975fcc89a2078ce84d1597f0bab0ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a02808c001f84aff6bac8fa6185f85f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a02808c001f84aff6bac8fa6185f85f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\347efe0b1a169a243cdc3301081587c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\347efe0b1a169a243cdc3301081587c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\1b3f4f759f9ad5c1e014ab48dc0827d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\1b3f4f759f9ad5c1e014ab48dc0827d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\1a451a1b14d4e3908c3d12672d65f2d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\1a451a1b14d4e3908c3d12672d65f2d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\ef8c9e3e86dd13feb2003329827e890a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\ef8c9e3e86dd13feb2003329827e890a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\16abd3bcb1a841c1ff0d89cf359711da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\16abd3bcb1a841c1ff0d89cf359711da\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\5d17186e2d16f5923de672f1bdfcf21b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\5d17186e2d16f5923de672f1bdfcf21b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\809d2f67b102ee14d637fc49ae3248cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\809d2f67b102ee14d637fc49ae3248cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\bdeb1a39d732efcd4d7d364c678c0754\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\bdeb1a39d732efcd4d7d364c678c0754\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\72c2272ee58f0ff2de52d70193f1d22c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\72c2272ee58f0ff2de52d70193f1d22c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\e0a2ab1682ce9f06cdd7fa997494f58c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\e0a2ab1682ce9f06cdd7fa997494f58c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\9199dd17742322beee2f62c643542bd6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\9199dd17742322beee2f62c643542bd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\4256ef64426de844d68fdd8e76be2b69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\4256ef64426de844d68fdd8e76be2b69\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\77481b40e078c85dc0d7525db7fc4a79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\77481b40e078c85dc0d7525db7fc4a79\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\82db0b9cc2ffe86ae5e9c1f98ab0eec7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\82db0b9cc2ffe86ae5e9c1f98ab0eec7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\3cbc23fb96b38fe88e4bb2f743dc74bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\3cbc23fb96b38fe88e4bb2f743dc74bf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\bb87b1f4a23273bb3458ef71ff5c8551\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\bb87b1f4a23273bb3458ef71ff5c8551\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a80cdeff8b210e73a37063ba8197a394\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\a80cdeff8b210e73a37063ba8197a394\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\1df2f751f831b68bd97b40f026743f6c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\1df2f751f831b68bd97b40f026743f6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\092f30b8ce5b92ccd1d7e2e8cfa45e0e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\rizwa\.gradle\caches\transforms-2\files-2.1\092f30b8ce5b92ccd1d7e2e8cfa45e0e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rizwa\AndroidStudioProjects\bakery\app\src\main\AndroidManifest.xml

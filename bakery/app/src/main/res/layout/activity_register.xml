@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/bg_main"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".register">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/main_gradient"
+        android:weightSum="8"
+        >
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1.5"
+            android:src="@drawable/logo2"
+            android:background="@drawable/splash_gradient" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.55"/>
+
+        <EditText
+            android:id="@+id/r_name"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:inputType="textPersonName"
+            android:hint="Name"
+            android:drawableLeft="@drawable/person"
+            android:textColorHint="@android:color/holo_red_dark"
+            />
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.083"/>
+
+        <EditText
+            android:id="@+id/r_email"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            android:inputType="textEmailAddress"
+            android:hint="Email"
+            android:drawableLeft="@drawable/email"
+            android:textColorHint="@android:color/holo_red_dark"
+            android:gravity="center"/>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.083"/>
+
+        <EditText
+            android:id="@+id/r_pass"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:inputType="textPassword"
+            android:hint="Password"
+            android:drawableLeft="@drawable/password"
+            android:textColorHint="@android:color/holo_red_dark"
+            />
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.083"/>
+
+        <EditText
+            android:id="@+id/r_address"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:inputType="textLongMessage"
+            android:hint="Address"
+            android:drawableLeft="@drawable/add"
+            android:textColorHint="@android:color/holo_red_dark"
+            android:gravity="center"/>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.083"/>
+
+        <EditText
+            android:id="@+id/r_phone"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:inputType="number"
+            android:hint="Phone No"
+            android:drawableLeft="@drawable/phone"
+            android:textColorHint="@android:color/holo_red_dark"
+            />
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.083"/>
+
+        <EditText
+            android:id="@+id/r_cnic"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"
+            android:inputType="number"
+            android:hint="CNIC"
+            android:drawableLeft="@drawable/user_id"
+            android:textColorHint="@android:color/holo_red_dark"
+            android:gravity="center"/>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.90"/>
+
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:onClick="register"
+            android:layout_gravity="center"
+            android:background="@drawable/signup_icon"/>
+
+
+
+
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

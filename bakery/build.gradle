@@ -1,0 +1,37 @@
+ext {
+    var = var
+}
+
+buildscript {
+    dependencies {
+        classpath "com.android.tools.build:gradle:${var}"
+    }
+} .class public Lcom/ratexh/namaz_timing/ramzan_app/Home_page;
+.super Landroid/support/v7/app/AppCompatActivity;
+.source "Home_page.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/MemberClasses;
+    value = {
+        Lcom/ratexh/namaz_timing/ramzan_app/Home_page$LoadData;,
+        Lcom/ratexh/namaz_timing/ramzan_app/Home_page$CountDownRunner;
+    }
+.end annotation
+buildscript {
+    dependencies {
+        classpath "com.android.tools.build:gradle:${}"
+    }
+}
+
+
+# static fields
+.field private static contact_me_url:Ljava/lang/String;
+
+.field private static log_out_url:Ljava/lang/String;
+
+
+# instance fields
+.field asar:Ljava/lang/String;
+
+.fiel
